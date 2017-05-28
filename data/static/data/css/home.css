@@ -1,0 +1,44 @@
+.mainbody{
+    margin-top: 50px;
+}
+
+.subrow{
+    padding-bottom: 30px;
+    border-bottom: 1px solid #555;
+}
+
+.subrow span{
+    padding-right:10px;
+    font-size: 10px;
+    color: #586069;
+}
+
+.yellow-circle{
+    color:#ffac45;
+}
+
+.blue-circle{
+    color:blue;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.heading p{
+    font-size: 20px;
+    color: #555;
+}
+
+.fa-star{
+    color: #586069 !important;
+}
+
+.subrow p{
+    color: #586069 !important;
+}
+
+.subrow a{
+    cursor: pointer;
+}
